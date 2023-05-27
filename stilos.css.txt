@@ -1,0 +1,22 @@
+.blue-text {
+  color: blue;
+}
+
+.green-text {
+  color: green;
+  text-align: center;
+}
+
+.left-text {
+  text-align: left;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
